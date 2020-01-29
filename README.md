@@ -1,0 +1,2 @@
+# StuffSchool
+Some rare projects
